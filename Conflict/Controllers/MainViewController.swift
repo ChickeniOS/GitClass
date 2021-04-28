@@ -10,7 +10,8 @@ import UIKit
 class MainViewController: UIViewController {
 
   @IBOutlet var redButton: UIButton!
-
+  @IBOutlet var greenButton: UIButton!
+  
   override func viewDidLoad() {
     super.viewDidLoad()
   }

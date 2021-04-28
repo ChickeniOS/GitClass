@@ -10,6 +10,7 @@ import UIKit
 class MainViewController: UIViewController {
 
   @IBOutlet var redButton: UIButton!
+  @IBOutlet var blueButton: UIButton!
 
   override func viewDidLoad() {
     super.viewDidLoad()
